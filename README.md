@@ -1,6 +1,6 @@
 ## Programming Language, Web Technologies, Frameworks and Scripts used to Build this Application.
 
-I have build this CMS using the following:
+I have build this Application using the following:
 
 1. ASP.NET Core 5.0
 2. C#
